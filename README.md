@@ -105,7 +105,7 @@ HR-Analytics-Dashboard/
 
 ##  Author
 **Atharva Pagale**
-- GitHub: https://github.com/your-username
+- GitHub:(https://github.com/pagaleatharva)
 - LinkedIn: [https:linkedin.com/in/atharva-pagale-224786296](https://www.linkedin.com/in/atharva-pagale-224786296?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNFxCTVUzR9G7AL%2Ffo4RR0w%3D%3D)
 
 ---
