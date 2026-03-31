@@ -71,7 +71,7 @@ The dataset used in this project contains HR-related data such as:
 ---
 
 ##  Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](HR-Dashbord.png)
 
 ---
 
