@@ -30,7 +30,7 @@ The dataset used in this project contains HR-related data such as:
 - Attrition Status
 - Job Satisfaction
 
- File included: `HR Data.xlsx`
+ File included: [`HR Data.xlsx`](https://github.com/pagaleatharva/HR-ANALYTICS-DASHBORD/blob/main/HR%20Data.xlsx)
 
 ---
 
